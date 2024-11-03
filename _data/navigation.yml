@@ -21,7 +21,8 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+#    url: /cv/
+    url: /files/CV_Yilie_Huang.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
