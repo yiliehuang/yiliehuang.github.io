@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/publications.md
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
