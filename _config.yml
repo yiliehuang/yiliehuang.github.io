@@ -75,12 +75,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  Publications:
+  publications:
     title: 'Publications'
-  Preprints:
+  preprints:
     title: 'Preprints'    
-  In Progress:
-    title: 'In Progress
+  progress:
+    title: 'In Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
