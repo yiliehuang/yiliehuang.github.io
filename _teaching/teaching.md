@@ -5,7 +5,9 @@ permalink: /teaching/teaching
 ---
 
 <h2>Columbia University</h2>
+<br>
 <em>Teaching Assistant</em>, New York, NY, USA<br>
+<br>
 - IEOR E4602, Quantitative Risk Management, Fall 2023<br>
 - IEOR 4630, Asset Allocation, Spring 2023<br>
 - IEORE 4732, Computational Methods in Finance, Spring 2022<br>
