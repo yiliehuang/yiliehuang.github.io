@@ -1,6 +1,5 @@
 ---
 collection: talks
-type: "Talk"
 permalink: /talks/talks
 ---
 # Conference Presentations
