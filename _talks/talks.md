@@ -13,5 +13,5 @@ permalink: /talks/talks
 - Conference Presentations, October 2024<br>
 - 11th World Congress of Bachelier Finance Society, June 2022<br>
 <br>
-<h2>Posters</h2><br>
+<h2>Posters</h2>
 - Financial and Business Analytics Poster Session at Columbia University, November 2022
