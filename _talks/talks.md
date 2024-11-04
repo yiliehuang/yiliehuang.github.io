@@ -2,30 +2,21 @@
 collection: talks
 permalink: /talks/talks
 ---
+<p>This is the first line.<br>
+And this is the second line.</p>
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conference Presentations
+===============
+<p>- INFORMS Annual Meeting, October 2024<br>
+- INFORMS Conference on Financial Engineering and FinTech, August 2024<br>
+- INFORMS Annual Meeting, October 2022<br>
+- 11th World Congress of Bachelier Finance Society, June 2022</p>
 
-Heading 1
-======
+Session Chair 
+===============
+<p>- Conference Presentations, October 2024<br>
+- 11th World Congress of Bachelier Finance Society, June 2022</p>
 
-Heading 2
-======
-
-Heading 3
-======
-
-# Conference Presentations
-
-- INFORMS Annual Meeting, October 2024
-- INFORMS Conference on Financial Engineering and FinTech, August 2024
-- INFORMS Annual Meeting, October 2022
-- 11th World Congress of Bachelier Finance Society, June 2022
-
-# Session Chair 
-
-- Conference Presentations, October 2024
-- 11th World Congress of Bachelier Finance Society, June 2022
-
-# Posters
-
-- Financial and Business Analytics Poster Session at Columbia University, November 2022
+Posters
+===============
+<p>- Financial and Business Analytics Poster Session at Columbia University, November 2022</p>
