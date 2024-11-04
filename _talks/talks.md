@@ -10,7 +10,7 @@ permalink: /talks/talks
 - 11th World Congress of Bachelier Finance Society, June 2022<br>
 <br>
 <h2>Session Chair</h2>
-- Conference Presentations, October 2024<br>
+- INFORMS Annual Meeting, October 2024<br>
 - 11th World Congress of Bachelier Finance Society, June 2022<br>
 <br>
 <h2>Posters</h2>
