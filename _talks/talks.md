@@ -3,7 +3,6 @@ collection: talks
 permalink: /talks/talks
 ---
 
-<p>
 <h1>Conference Presentations</h1><br>
 - INFORMS Annual Meeting, October 2024<br>
 - INFORMS Conference on Financial Engineering and FinTech, August 2024<br>
@@ -16,4 +15,3 @@ permalink: /talks/talks
 
 <h1>Posters</h1><br>
 - Financial and Business Analytics Poster Session at Columbia University, November 2022
-</p>
