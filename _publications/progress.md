@@ -3,6 +3,9 @@ collection: publications
 category: progress
 permalink: /publication/progress
 ---
+<div>
+  {{ "This is the first line.  \nThis is the second line." | markdownify }}
+</div>
 
 Huang, Y., Jia, Y., & Zhou, X. (n.d.). Mean-Variance Efficient Asset Allocation via Continuous-Time Reinforcement Learning. In progress.
 
