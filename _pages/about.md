@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Industrial Engineering and Operations Research at Columbia University, advised by [Prof.Xunyu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou) . My research intersects Reinforcement Learning (RL), stochastic control, and financial mathematics, with a particular focus on the development and analysis of continuous-time RL algorithms for optimizing financial and control systems under uncertainty.
+I am currently a PhD candidate in the Department of Industrial Engineering and Operations Research at Columbia University, advised by [Prof. Xunyu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou) . My research intersects Reinforcement Learning (RL), stochastic control, and financial mathematics, with a particular focus on the development and analysis of continuous-time RL algorithms for optimizing financial and control systems under uncertainty.
 
 
 
