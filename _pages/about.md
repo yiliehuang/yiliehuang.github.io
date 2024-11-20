@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Industrial Engineering and Operations Research at Columbia University, advised by [Prof. Xunyu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou) . My research intersects Reinforcement Learning (RL), stochastic control, and financial mathematics, with a particular focus on the development and analysis of continuous-time RL algorithms for optimizing financial and control systems under uncertainty.
+Yilie Huang is a PhD candidate in the Department of Industrial Engineering and Operations Research at Columbia University, under the guidance of [Professor Xunyu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). His research lies at the intersection of reinforcement learning (RL), stochastic control, and financial engineering. He focuses on developing and analyzing continuous-time RL algorithms to optimize financial and control systems operating under uncertainty.
 
-
+Huang earned an M.S. in Operations Research from Columbia University in 2018 and a B.S. in Mathematics and Applied Mathematics from Zhejiang University in 2017.
 
 <!-- Key highlights of my work include:
 
