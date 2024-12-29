@@ -1,6 +1,6 @@
 ---
 collection: talks
-permalink: /talks/talks
+permalink: /talks
 ---
 
 <h2>Presentations</h2>
