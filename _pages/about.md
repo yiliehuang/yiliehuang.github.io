@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Yilie Huang is a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xunyu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). His research focuses on the intersection of reinforcement learning (RL), stochastic control, and financial engineering, with a particular interest in developing and analyzing continuous-time RL algorithms to optimize financial and control systems under uncertainty.
+Yilie Huang is a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). His research lies at the intersection of **reinforcement learning (RL)**, **stochastic control**, and **financial engineering**, with a focus on developing and analyzing **continuous-time RL algorithms** to optimize financial and control systems under uncertainty.
 
-Huang completed his PhD in Industrial Engineering and Operations Research at Columbia University in 2024, advised by Professor Xunyu Zhou. He also earned an M.S. in Operations Research from Columbia University in 2018 and a B.S. in Mathematics and Applied Mathematics from Zhejiang University in 2017.
+Huang earned his PhD in Industrial Engineering and Operations Research at Columbia University in 2024, where he was advised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). He also holds an M.S. in Operations Research from Columbia University (2018) and a B.S. in Mathematics and Applied Mathematics from Zhejiang University (2017).
 
-Key highlights of my work include:
+### Key Contributions:
+- **Continuous-Time RL for Portfolio Optimization**: Developed a **continuous-time actor-critic RL algorithm** for mean-variance (MV) portfolio optimization. This algorithm achieves a **sublinear regret bound** in terms of the Sharpe ratio, with strong empirical results using U.S. stock data from 2000 to 2019, demonstrating superior performance against 15 established strategies, particularly during bear markets.
 
+- **Model-Free RL in Linear-Quadratic (LQ) Control**: Proposed **model-free reinforcement learning algorithms** for continuous-time LQ problems, addressing scenarios where volatilities depend on both state and control variables. Introduced two actor-critic approaches—one with deterministic exploration and another with adaptive exploration—that achieve **sublinear regret bounds**. These methods outperform recent model-based techniques in numerical experiments.
 
--	Continuous-Time RL for Portfolio Selection: We propose a continuous-time actor-critic RL algorithm designed for mean-variance (MV) portfolio optimization. Its performance is theoretically guaranteed through the derivation of a sublinear regret bound in terms of the Sharpe ratio. Empirical evaluations using U.S. stock data from January 2000 to December 2019 show that the algorithm outperforms 15 well-established alternative strategies, particularly during bear markets.
+Yilie Huang’s work bridges the gap between theory and application, advancing decision-making strategies in uncertain environments. Explore his [Publications](https://yiliehuang.github.io/publications) and [CV](https://yiliehuang.github.io/files/CV_Yilie_Huang.pdf) for more details.
 
-
--	Model-Free RL in Linear-Quadratic (LQ) Control: We study a model-free reinforcement learning approach for continuous-time LQ problems, where volatilities depend on both state and control variables. Two actor-critic algorithms are introduced: one employing deterministic exploration and the other adaptive exploration. Both achieve a regret bound of O(N^{3/4}) up to a logarithmic factor, with numerical comparisons showing superior performance over recent model-based methods.
