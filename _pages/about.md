@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yilie Huang | Postdoctoral Researcher in Reinforcement Learning and Stochastic Control"
+title: "About Yilie Huang – Postdoc in Reinforcement Learning and Control"
 author_profile: true
 redirect_from: 
   - /about/
