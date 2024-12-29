@@ -184,13 +184,15 @@ exclude:
   - README
   - tmp
   - vendor
-  - portfolio/portfolio-1/
-  - portfolio/portfolio-2/
-  - posts/2012/08/blog-post-1/
-  - posts/2013/08/blog-post-2/
-  - posts/2014/08/blog-post-3/
+  - archive-layout-with-content/
+  - categories/
+  - collection-archive/
+  - markdown/
   - non-menu-page/
-  - markdown_generator/
+  - page-archive/
+  - googleda8d24b0e6000ce3.html
+  - teaching/teaching/
+  - talks/talks/
 keep_files:
   - .git
   - .svn
