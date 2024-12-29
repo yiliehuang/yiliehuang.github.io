@@ -1,7 +1,12 @@
 User-agent: *
-Disallow: /portfolio/portfolio-1/
-Disallow: /portfolio/portfolio-2/
-Disallow: /posts/2012/08/blog-post-1/
+Disallow: /archive-layout-with-content/
+Disallow: /categories/
+Disallow: /collection-archive/
+Disallow: /markdown/
 Disallow: /non-menu-page/
-Disallow: /markdown_generator/
+Disallow: /page-archive/
+Disallow: /googleda8d24b0e6000ce3.html
+Disallow: /teaching/teaching/
+Disallow: /talks/talks/
+Disallow: /portfolio/
 Sitemap: https://yiliehuang.github.io/sitemap.xml
