@@ -269,6 +269,7 @@ defaults:
       author_profile: true
       sitemap:
         priority: 1.0 # Set high priority for pages
+        lastmod: 2024-12-30
   # _teaching
   - scope:
       path: ""
@@ -280,6 +281,7 @@ defaults:
       comments: true
       sitemap:
         priority: 0.7 # Medium priority for teaching
+        lastmod: 2024-12-30
   # _publications
   - scope:
       path: ""
@@ -291,6 +293,7 @@ defaults:
       comments: true
       sitemap:
         priority: 0.9 # High priority for publications
+        lastmod: 2024-12-30
   # _portfolio
   - scope:
       path: ""
@@ -302,6 +305,7 @@ defaults:
       comment: false
       sitemap:
         priority: 0.0 # Exclude from sitemap
+        lastmod: 2024-12-30
   # _talks
   - scope:
       path: ""
@@ -312,6 +316,7 @@ defaults:
       share: true
       sitemap:
         priority: 0.8 # Medium-high priority for talks
+        lastmod: 2024-12-30
 
 
 # Sass/SCSS
@@ -334,6 +339,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -342,6 +348,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
 
 
 # Archives
