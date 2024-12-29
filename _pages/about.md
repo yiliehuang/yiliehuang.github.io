@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Yilie Huang – Postdoc in Reinforcement Learning and Control"
+title: "About Yilie Huang"
 author_profile: true
 redirect_from: 
   - /about/
