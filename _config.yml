@@ -238,6 +238,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: false # Disable posts output
+  markdown_generator:
+    output: false # Disable markdown_generator
+  talkmap:
+    output: false # Disable talkmap
 
 
 # These settings control how pages and collections are included in the site
@@ -248,11 +254,12 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false # Disable author profile for posts
+      read_time: false # Disable read time for posts
+      comments: false # Disable comments for posts
+      share: false # Disable share buttons for posts
+      sitemap:
+        priority: 0.0 # Exclude from sitemap
   # _pages
   - scope:
       path: ""
@@ -260,6 +267,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap:
+        priority: 1.0 # Set high priority for pages
   # _teaching
   - scope:
       path: ""
@@ -269,6 +278,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap:
+        priority: 0.7 # Medium priority for teaching
   # _publications
   - scope:
       path: ""
@@ -278,6 +289,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap:
+        priority: 0.9 # High priority for publications
   # _portfolio
   - scope:
       path: ""
@@ -287,6 +300,8 @@ defaults:
       author_profile: false
       share: false
       comment: false
+      sitemap:
+        priority: 0.0 # Exclude from sitemap
   # _talks
   - scope:
       path: ""
@@ -295,6 +310,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      sitemap:
+        priority: 0.8 # Medium-high priority for talks
 
 
 # Sass/SCSS
