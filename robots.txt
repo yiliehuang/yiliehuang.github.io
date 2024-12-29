@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /portfolio/portfolio-1/
+Disallow: /portfolio/portfolio-2/
+Disallow: /posts/2012/08/blog-post-1/
+Disallow: /non-menu-page/
+Disallow: /markdown_generator/
+Sitemap: https://yiliehuang.github.io/sitemap.xml
