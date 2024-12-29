@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yilie Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Yilie Huang"
-description              : &"Homepage of Yilie Huang, focused on research in reinforcement learning, stochastic control, and financial engineering."
+description: "Research in reinforcement learning, stochastic control, and financial engineering by Yilie Huang, a postdoctoral researcher at Columbia University."
 url: "https://yiliehuang.github.io"
 baseurl: ""
 repository: "academicpages/academicpages.github.io"
@@ -138,9 +138,10 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: "Person"
+  links:
+    - "https://www.linkedin.com/in/yilie-huang-950467135/"
+    - "https://scholar.google.com/citations?user=XkJAwBoAAAAJ&hl=en"
 
 
 # Analytics
