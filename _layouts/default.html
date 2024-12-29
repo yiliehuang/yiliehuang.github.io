@@ -9,6 +9,29 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description }}">
+    <meta name="keywords" content="Yilie Huang, Reinforcement Learning, Stochastic Control, Financial Engineering, Research">
+    <meta name="author" content="Yilie Huang">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Yilie Huang",
+      "jobTitle": "Postdoctoral Research Scientist in Operations Research",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Columbia University"
+      },
+      "url": "https://yiliehuang.github.io",
+      "sameAs": [
+        "https://github.com/yiliehuang",
+        "https://www.linkedin.com/in/yilie-huang-950467135/"
+      ]
+    }
+    </script>
   </head>
 
   <body>
