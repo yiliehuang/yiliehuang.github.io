@@ -197,6 +197,9 @@ exclude:
   - _posts/
   - markdown_generator/
   - talkmap/
+  - "/talks/"
+  - "/teaching/"
+  - "/publications/"
 keep_files:
   - .git
   - .svn
