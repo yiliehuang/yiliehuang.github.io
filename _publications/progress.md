@@ -3,6 +3,7 @@ collection: publications
 category: progress
 permalink: /publication/progress
 ---
-<p>Huang, Y. & Zhou, X. (n.d.). Achieving Sublinear Regret in Continuous-Time LinearQuadratic Reinforcement Learning: An Adaptive Exploration Approach. In progress.<br>
-<br>
-</p>
+<ul>
+  <li><strong>Huang, Y.</strong>, & Zhou, X. (n.d.). Achieving Sublinear Regret in Continuous-Time Linear–Quadratic Reinforcement Learning: An Adaptive Exploration Approach. <em>In progress</em>.</li>
+</ul>
+
