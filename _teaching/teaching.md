@@ -1,7 +1,7 @@
 ---
 collection: teaching
 #type: "Undergraduate course"
-permalink: /teaching/teaching
+permalink: /teaching
 ---
 
 <h2>Columbia University</h2>
