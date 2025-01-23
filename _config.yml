@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yilie Huang's Homepage"
+title                    : "Yilie Huang"
 title_separator          : "-"
 name                     : &name "Yilie Huang"
 description: "Research in reinforcement learning, stochastic control, and financial engineering by Yilie Huang, a postdoctoral researcher at Columbia University."
