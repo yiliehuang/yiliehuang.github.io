@@ -16,5 +16,6 @@ permalink: /talks
 - 11th World Congress of Bachelier Finance Society, June 2022<br>
 <br>
 <h2>Posters</h2>
+- Columbia AI Summit, March 2025
+- DSI Financial and Business Analytics Poster Session at Columbia University, February 2025<br>
 - DSI Financial and Business Analytics Poster Session at Columbia University, November 2022<br>
-- DSI Financial and Business Analytics Poster Session at Columbia University, March 2025<br>
