@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yilie Huang is a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). His research lies at the intersection of **reinforcement learning (RL)**, **stochastic control**, and **financial engineering**, with a focus on developing and analyzing **continuous-time RL algorithms** to optimize financial and control systems under uncertainty.
+Yilie Huang is a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). His research lies at the intersection of **reinforcement learning (RL)**, **diffusion models**, **stochastic control**, and **financial engineering**, with a focus on developing and analyzing **continuous-time RL algorithms** to optimize financial and control systems under uncertainty.
 
 Huang earned his PhD in Industrial Engineering and Operations Research at Columbia University in 2024, where he was advised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). He also holds an M.S. in Operations Research from Columbia University (2018) and a B.S. in Mathematics and Applied Mathematics from Zhejiang University (2017).
 
