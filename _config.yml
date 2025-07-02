@@ -82,6 +82,13 @@ publication_category:
   progress:
     title: 'In Progress'
 
+# Presentations Category
+talks_category:
+  talk:
+    title: "Talks"
+  poster:
+    title: "Posters"
+
 # Service Category
 service_category:
   referee:
