@@ -12,10 +12,6 @@ permalink: /talks
 - INFORMS Annual Meeting, October 2022<br>
 - 11th World Congress of Bachelier Finance Society, June 2022<br>
 <br>
-<h2>Session Chair</h2>
-- INFORMS Annual Meeting, October 2024<br>
-- 11th World Congress of Bachelier Finance Society, June 2022<br>
-<br>
 <h2>Posters</h2>
 - NYC Operations Day, March 2025<br>
 - Columbia AI Summit, March 2025<br>
