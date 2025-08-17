@@ -5,8 +5,8 @@ permalink: /service/referee
 ---
 
 <ul>
-  <li>Quantitative Finance</li>
   <li>Journal of the Operational Research Society</li>
+  <li>Quantitative Finance</li>
   <li>Mathematics and Financial Economics</li>
   <li>Digital Finance</li>
   <li>ACM International Conference on AI in Finance</li>
