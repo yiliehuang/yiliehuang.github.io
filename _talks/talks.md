@@ -2,6 +2,7 @@
 collection: talks
 category: talk
 permalink: /talks/talks
+title: "Invited Talks"
 ---
 
 <ul>
