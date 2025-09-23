@@ -5,10 +5,10 @@ permalink: publication/publications
 ---
 
 <ul>
-  <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2025). 
-      <a href="/files/LQ_SICON_2025.pdf">Sublinear Regret for a Class of Continuous-Time Linear–Quadratic Reinforcement Learning Problems</a> 
-      (<a href="https://arxiv.org/abs/2407.17226">arXiv</a>). 
-      <em>SIAM Journal on Control and Optimization</em>, forthcoming.
+  <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2025).
+      <a href="https://doi.org/10.1137/24M1695075">Sublinear Regret for a Class of Continuous-Time Linear–Quadratic Reinforcement Learning Problems</a>
+      [<a href="/files/LQ_SICON_2025.pdf">PDF</a> | <a href="https://arxiv.org/abs/2407.17226">arXiv</a>].
+      <em>SIAM Journal on Control and Optimization</em>, 63(5), 3452–3474.
   </li>
   
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2022). 
