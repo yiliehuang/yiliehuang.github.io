@@ -14,7 +14,7 @@ permalink: publication/publications
   <li><strong>Huang, Y.</strong> (2022). 
       <a href="/files/ALM_ICAIF_2025.pdf">Continuous-Time Reinforcement Learning for Asset–Liability Management</a> 
       . 
-      <em>Forthcoming in Proceedings of the Third ACM International Conference on AI in Finance</em>, 377-385.
+      <em>Forthcoming in Proceedings of the Third ACM International Conference on AI in Finance</em>.
   </li>
   
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2022). 
