@@ -11,7 +11,7 @@ permalink: publication/publications
       <em>SIAM Journal on Control and Optimization</em>, 63(5), 3452–3474.
   </li>
 
-  <li><strong>Huang, Y.</strong> (2022). 
+  <li><strong>Huang, Y.</strong> (2025). 
       <a href="/files/ALM_ICAIF_2025.pdf">Continuous-Time Reinforcement Learning for Asset–Liability Management</a> 
       . 
       <em>Forthcoming in Proceedings of the Sixth ACM International Conference on AI in Finance</em>.
