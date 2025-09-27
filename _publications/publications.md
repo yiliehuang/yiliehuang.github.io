@@ -12,12 +12,12 @@ permalink: publication/publications
   </li>
   <li><strong>Huang, Y.</strong> (2025). 
       <a href="/files/ALM_ICAIF_2025.pdf">Continuous-Time Reinforcement Learning for Asset–Liability Management</a>. 
-      <em>Forthcoming in Proceedings of the Sixth ACM International Conference on AI in Finance</em>.
+      <em>Forthcoming in Proceedings of the 6th ACM International Conference on AI in Finance</em>.
   </li>
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2022). 
       <a href="/files/MV_ICAIF_2022.pdf">Achieving Mean–Variance Efficiency by Continuous-Time Reinforcement Learning</a> 
       (<a href="https://dl.acm.org/doi/abs/10.1145/3533271.3561760">ACM Digital Library</a>). 
-      <em>In Proceedings of the Third ACM International Conference on AI in Finance</em>, 377-385.
+      <em>In Proceedings of the 3rd ACM International Conference on AI in Finance</em>, 377-385.
   </li>
 </ul>
 
