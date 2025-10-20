@@ -6,6 +6,7 @@ permalink: /talks/talks
 
 <ul>
   <li>Workshop on Stochastic Control, Financial Technology, and Machine Learning (Hong Kong), December 2025</li>
+  <li>The 6th ACM International Conference on AI in Finance (Singapore), November 2025</li>
   <li>Control and Optimization Seminar (UConn), November 2025</li>
   <li>INFORMS Annual Meeting (Atlanta), October 2025</li>
   <li>Mathematical Finance and Stochastic Analysis Seminar (HU/TU Berlin), October 2025</li>
