@@ -11,8 +11,9 @@ permalink: publication/publications
       <em>SIAM Journal on Control and Optimization</em>, 63(5), 3452–3474.
   </li>
   <li><strong>Huang, Y.</strong> (2025). 
-      <a href="/files/ALM_ICAIF_2025.pdf">Continuous-Time Reinforcement Learning for Asset–Liability Management</a>. 
-      <em>Forthcoming in Proceedings of the 6th ACM International Conference on AI in Finance</em>.
+      <a href="/files/ALM_ICAIF_2025.pdf">Continuous-Time Reinforcement Learning for Asset–Liability Management</a>
+      (<a href="https://dl.acm.org/doi/10.1145/3768292.3770337">ACM Digital Library</a>). 
+      <em>In Proceedings of the 6th ACM International Conference on AI in Finance</em>.
   </li>
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2022). 
       <a href="/files/MV_ICAIF_2022.pdf">Achieving Mean–Variance Efficiency by Continuous-Time Reinforcement Learning</a> 
