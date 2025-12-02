@@ -2,9 +2,9 @@
 collection: publications
 category: progress
 permalink: /publication/progress
-published: false
+published: True
 ---
 <ul>
-  <li><strong>Huang, Y.</strong>, & Zhou, X. (n.d.). Achieving Sublinear Regret in Continuous-Time Linear–Quadratic Reinforcement Learning: An Adaptive Exploration Approach. <em>In progress</em>.</li>
+  <li><strong>Huang, Y.</strong>, Tang, W.,& Zhou, X. (n.d.). Adaptive Reparameterized Time for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Allocation. <em>In progress</em>.</li>
 </ul>
 
