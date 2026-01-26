@@ -14,7 +14,7 @@ Huang earned his PhD in Industrial Engineering and Operations Research at Columb
 His work combines theoretical guarantees with empirical validation.
 
 ### Key Contributions:
-- **Continuous-Time RL for Diffusion Sampling in GenAI**: Introduced **Adaptive Reparameterized Time (ART)** to learn **nonuniform timestep schedules** by controlling the sampling clock speed, and proposed **ART-RL**, a **continuous-time actor-critic** method with Gaussian policies that provably recovers the optimal ART schedule; empirically, it improves FID on CIFAR-10 across sampling budgets and transfers to AFHQv2, FFHQ, and ImageNet without retraining.
+- **Continuous-Time RL for Diffusion Sampling in GenAI**: Introduced **Adaptive Reparameterized Time (ART)** to learn nonuniform timestep schedules by controlling the sampling clock speed, and proposed ART-RL, a **continuous-time actor-critic** method with Gaussian policies that provably recovers the optimal ART schedule; empirically, it improves FID on CIFAR-10 across sampling budgets and transfers to AFHQv2, FFHQ, and ImageNet without retraining.
 
 - **Continuous-Time RL for Portfolio Optimization**: Developed a **continuous-time actor-critic RL algorithm** for mean-variance (MV) portfolio optimization. This algorithm achieves a **sublinear regret bound** in terms of the Sharpe ratio, with strong empirical results using U.S. stock data from 2000 to 2019, demonstrating superior performance against 14 established strategies, particularly during bear markets.
 
