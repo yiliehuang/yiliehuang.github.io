@@ -6,7 +6,7 @@ permalink: publication/preprints
 <ul>
   <li><strong>Huang, Y.</strong>, Tang, W., &amp; Zhou, X. (2026).
     <a href="/files/ART_RL_ArXiv.pdf">ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Allocation</a>
-    (<a href="https://arxiv.org/abs/XXXX.XXXXX">arXiv</a>). <em>Under review</em>.
+    (<a href="https://arxiv.org/abs/2601.18681">arXiv</a>). <em>Under review</em>.
 </li>
   <li><strong>Huang, Y.</strong> & Zhou, X. (2025). 
       <a href="/files/LQ_Adaptive_ArXiv.pdf">Data-Driven Exploration for a Class of Continuous-Time Linear--Quadratic Reinforcement Learning Problems</a> 
