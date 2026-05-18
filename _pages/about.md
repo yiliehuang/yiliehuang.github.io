@@ -7,18 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Yilie Huang is a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou). His research lies at the intersection of **reinforcement learning (RL)**, **diffusion models for generative AI (GenAI)**, **stochastic control**, and **financial engineering**, with a focus on developing and analyzing **continuous-time RL algorithms** for decision making under uncertainty.
+I will join the Department of Applied Mathematics at The Hong Kong Polytechnic University as an Assistant Professor in June 2026. I am currently a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou).
 
-Huang earned his PhD in Industrial Engineering and Operations Research at Columbia University in 2024, where he was advised by Professor Xun Yu Zhou. He also holds an M.S. in Operations Research from Columbia University (2018) and a B.S. in Mathematics and Applied Mathematics from Zhejiang University (2017).
+My research lies at the intersection of reinforcement learning, diffusion models for generative AI, stochastic control, and financial engineering. I develop continuous-time reinforcement learning and stochastic control methods for learning and decision-making under uncertainty, with an emphasis on theoretical guarantees, model-free algorithms, and empirical validation.
 
-His work combines theoretical guarantees with empirical validation.
+I received my Ph.D. in Industrial Engineering and Operations Research from Columbia University in 2024, where I was advised by Professor Xun Yu Zhou. I also hold an M.S. in Operations Research from Columbia University and a B.S. in Mathematics and Applied Mathematics from Zhejiang University.
 
-### Key Contributions:
-- **Continuous-Time RL for Diffusion Sampling in GenAI**: Introduced **Adaptive Reparameterized Time (ART)** to learn nonuniform timestep schedules by controlling the sampling clock speed, and proposed ART-RL, a **continuous-time actor-critic** method with Gaussian policies that provably recovers the optimal ART schedule; empirically, it improves FID on CIFAR-10 across sampling budgets and transfers to AFHQv2, FFHQ, and ImageNet without retraining.
+### Research
 
-- **Continuous-Time RL for Portfolio Optimization**: Developed a **continuous-time actor-critic RL algorithm** for mean-variance (MV) portfolio optimization. This algorithm achieves a **sublinear regret bound** in terms of the Sharpe ratio, with strong empirical results using U.S. stock data from 2000 to 2019, demonstrating superior performance against 14 established strategies, particularly during bear markets.
+My current research focuses on three closely connected directions.
 
-- **Model-Free RL in Linear-Quadratic (LQ) Control**: Proposed **model-free reinforcement learning algorithms** for continuous-time LQ problems, addressing scenarios where volatilities depend on both state and control variables. Introduced two actor-critic approaches, one with deterministic exploration and another with data-driven exploration, that achieve **sublinear regret bounds**. These methods outperform recent model-based techniques in numerical experiments.
+#### Diffusion models and generative AI
 
-Yilie Huang’s work bridges the gap between theory and application, advancing decision-making strategies in uncertain environments. Explore his [Publications](https://yiliehuang.github.io/publications) and [CV](https://yiliehuang.github.io/files/CV_Yilie_Huang.pdf) for more details.
+I study how reinforcement learning and stochastic control can improve diffusion-based generative modeling. My recent work develops adaptive and reusable control methods for diffusion sampling and inverse problems, aiming to improve sampling efficiency while remaining compatible with pretrained diffusion models.
 
+#### Financial engineering and decision-making under uncertainty
+
+I develop reinforcement learning and stochastic control methods for financial decision problems, including portfolio optimization, asset-liability management, and dynamic investment. This line of work connects continuous-time theory with empirical validation using real financial data.
+
+#### Continuous-time reinforcement learning and stochastic control
+
+I study model-free reinforcement learning algorithms for continuous-time stochastic control problems, including linear-quadratic control and actor-critic methods with exploration. This line of work develops algorithms with theoretical performance guarantees and provides methodological foundations for applications in finance, generative modeling, and other stochastic systems.
+
+My work combines theoretical analysis with empirical validation, with the goal of developing reliable learning-based methods for complex stochastic systems.
+
+For more details, please see my [Publications](https://yiliehuang.github.io/publications) and [CV](https://yiliehuang.github.io/files/CV_Yilie_Huang.pdf).
