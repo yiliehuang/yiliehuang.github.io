@@ -5,7 +5,7 @@ permalink: publication/preprints
 ---
 <ul>
   <li><strong>Huang, Y.</strong> &amp; Zhou, X. (2026).
-    <a href="/files/AID_RL_ArXiv.pdf">Amortized Guidance for Image Inpainting with Pretrained Diffusion Models</a>
+    <a href="/files/AID_Inpaint_ArXiv.pdf">Amortized Guidance for Image Inpainting with Pretrained Diffusion Models</a>
     (<a href="https://arxiv.org/abs/2605.13010">arXiv</a>). <em>Under review</em>.
   </li>
   <li><strong>Huang, Y.</strong>, Tang, W., &amp; Zhou, X. (2026).
