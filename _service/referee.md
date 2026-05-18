@@ -3,7 +3,6 @@ collection: service
 category: referee
 permalink: /service/referee
 ---
-
 <h3>Journals</h3>
 <ul>
   <li>Mathematics of Operations Research</li>
@@ -13,7 +12,6 @@ permalink: /service/referee
   <li>IMA Journal of Management Mathematics</li>
   <li>Digital Finance</li>
 </ul>
-
 <h3>Conferences and Workshops</h3>
 <ul>
   <li>Neural Information Processing Systems (NeurIPS)</li>
