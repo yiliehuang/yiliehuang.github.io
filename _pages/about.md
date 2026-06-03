@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Department of Applied Mathematics at The Hong Kong Polytechnic University as an Assistant Professor in June 2026. I am currently a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou).
+I joined the Department of Applied Mathematics at The Hong Kong Polytechnic University as an Assistant Professor in June 2026. Before joining PolyU, I was a Postdoctoral Research Scientist in the Department of Industrial Engineering and Operations Research at Columbia University, supervised by [Professor Xun Yu Zhou](https://www.engineering.columbia.edu/faculty-staff/directory/xunyu-zhou).
 
 My research lies at the intersection of reinforcement learning, diffusion models for generative AI, stochastic control, and financial engineering. I develop continuous-time reinforcement learning and stochastic control methods for learning and decision-making under uncertainty, with an emphasis on theoretical guarantees, model-free algorithms, and empirical validation.
 
