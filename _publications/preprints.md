@@ -9,11 +9,11 @@ permalink: publication/preprints
     (<a href="https://arxiv.org/abs/2605.13010">arXiv</a>). <em>Under review</em>.
   </li>
   <li><strong>Huang, Y.</strong>, Tang, W., &amp; Zhou, X. (2026).
-    <a href="/files/ART_RL_ArXiv.pdf">ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Allocation</a>
+    <a href="/files/ART_RL_ArXiv.pdf">ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Schedule</a>
     (<a href="https://arxiv.org/abs/2601.18681">arXiv</a>). <em>Under review</em>.
   </li>
   <li><strong>Huang, Y.</strong> & Zhou, X. (2025). 
-      <a href="/files/LQ_Adaptive_ArXiv.pdf">Data-Driven Exploration for a Class of Continuous-Time Linear--Quadratic Reinforcement Learning Problems</a> 
+      <a href="/files/LQ_Adaptive_ArXiv.pdf">Data-Driven Exploration for a Class of Continuous-Time Indefinite Linear--Quadratic Reinforcement Learning Problems</a> 
       (<a href="https://arxiv.org/abs/2507.00358">arXiv</a>). <em>Under revision, IEEE Transactions on Automatic Control</em>.
   </li>
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2024). 

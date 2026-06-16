@@ -7,9 +7,9 @@ permalink: /talks/talks
 <ul>
   <li>Mathematical Control Theory Conference: The 7th Symposium in Memory of Professor Xunjing Li (Huzhou), July 2026</li>
   <li>International Conference on Optimal Control and Machine Learning (Guiyang), July 2026</li>
-  <li>Numerical Analysis in Artifical Intelligence (Guangzhou), June 2026</li>
+  <li>Numerical Analysis in Artificial Intelligence (Guangzhou), June 2026</li>
   <li>Quantitative Finance Conference (NUS Singapore), June 2026</li>
-  <li>Workshop on Stochastic Control, Financial Technology, and Machine Learning (Hong Kong), December 2025</li>
+  <li>Workshop on Stochastic Control, Financial Technology, and Machine Learning in Conjunction with the 60th Birthday Celebration of Prof. Xunyu Zhou (Hong Kong), December 2025</li>
   <li>The 6th ACM International Conference on AI in Finance (Singapore), November 2025</li>
   <li>Control and Optimization Seminar (UConn), November 2025</li>
   <li>INFORMS Annual Meeting (Atlanta), October 2025</li>
@@ -23,6 +23,4 @@ permalink: /talks/talks
   <li>INFORMS Annual Meeting (Indianapolis), October 2022</li>
   <li>11th World Congress of Bachelier Finance Society (Online), June 2022</li>
 </ul>
-
-
 
