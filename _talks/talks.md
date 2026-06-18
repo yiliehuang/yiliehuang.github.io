@@ -5,6 +5,7 @@ permalink: /talks/talks
 ---
 
 <ul>
+  <li>INFORMS Annual Meeting (San Francisco), November 2026</li>
   <li>Mathematical Control Theory Conference: The 7th Symposium in Memory of Professor Xunjing Li (Huzhou), July 2026</li>
   <li>International Conference on Optimal Control and Machine Learning (Guiyang), July 2026</li>
   <li>Numerical Analysis in Artificial Intelligence (Guangzhou), June 2026</li>
@@ -23,4 +24,3 @@ permalink: /talks/talks
   <li>INFORMS Annual Meeting (Indianapolis), October 2022</li>
   <li>11th World Congress of Bachelier Finance Society (Online), June 2022</li>
 </ul>
-
