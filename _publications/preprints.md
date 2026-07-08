@@ -18,6 +18,6 @@ permalink: publication/preprints
   </li>
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2024). 
       <a href="/files/MV_ArXiv.pdf">Mean-Variance Portfolio Selection by Continuous-Time Reinforcement Learning: Algorithms, Regret Analysis, and Empirical Study</a> 
-      (<a href="https://arxiv.org/abs/2412.16175">arXiv</a>). <em>Under revision, Management Science</em>.
+      (<a href="https://arxiv.org/abs/2412.16175">arXiv</a>). <em>Under minor revision, Management Science</em>.
   </li> 
 </ul>
