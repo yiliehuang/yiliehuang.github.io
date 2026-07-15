@@ -35,7 +35,7 @@ My work combines theoretical analysis with empirical validation, with the goal o
 
 ## Prospective Students
 
-I am looking for self-motivated Ph.D. students and research assistants interested in reinforcement learning, diffusion models for generative AI, stochastic control, and financial engineering. Interested applicants are welcome to email me with a CV, transcript, and a brief description of research interests.
+I am looking for self-motivated Ph.D. students and research assistants interested in reinforcement learning, diffusion models for generative AI, stochastic control, and financial engineering. A strong mathematical background is preferred. Interested applicants are welcome to email me with a CV, transcript, and a brief description of research interests.
 
 ## Research Support
 

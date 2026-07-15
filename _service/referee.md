@@ -5,6 +5,7 @@ permalink: /service/referee
 ---
 <h3>Journals</h3>
 <ul>
+  <li>Operations Research</li>
   <li>Mathematics of Operations Research</li>
   <li>Quantitative Finance</li>
   <li>Journal of the Operational Research Society</li>
