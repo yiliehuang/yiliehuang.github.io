@@ -5,6 +5,11 @@ permalink: publication/publications
 ---
 
 <ul>
+  <li><strong>Huang, Y.</strong> & Zhou, X. (2025). 
+      <a href="/files/LQ_Adaptive_ArXiv.pdf">Data-Driven Exploration for a Class of Continuous-Time Indefinite Linear--Quadratic Reinforcement Learning Problems</a> 
+      (<a href="https://arxiv.org/abs/2507.00358">arXiv</a>). 
+      <em>To appear, IEEE Transactions on Automatic Control</em>.
+  </li>
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2025). 
       <a href="/files/LQ_SICON_2025.pdf">Sublinear Regret for a Class of Continuous-Time Linear–Quadratic Reinforcement Learning Problems</a> 
       (<a href="https://doi.org/10.1137/24M1695075">SIAM</a>). 
@@ -21,4 +26,3 @@ permalink: publication/publications
       <em>In Proceedings of the 3rd ACM International Conference on AI in Finance</em>, 377-385.
   </li>
 </ul>
-

@@ -17,6 +17,7 @@ permalink: /service/referee
 <ul>
   <li>Neural Information Processing Systems (NeurIPS)</li>
   <li>International Conference on Machine Learning (ICML, Silver Reviewer)</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
   <li>ACM International Conference on AI in Finance (ICAIF)</li>
   <li>NeurIPS Workshop on Generative AI in Finance</li>
 </ul>
