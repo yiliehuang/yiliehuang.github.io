@@ -16,8 +16,9 @@ I received my Ph.D. in Industrial Engineering and Operations Research from Colum
 ## News
 
 - **November 2026.** Upcoming talk at the INFORMS Annual Meeting (San Francisco).
-- **August 2026.** Upcoming talk at the Shandong University Shandong-Hong Kong-Macao Forum on Mathematics and Its Interdisciplinary Applications 2026 (Jinan).
 - **August 2026.** Upcoming talk at the International Workshop on Probability Theory and Stochastic Analysis (Weihai).
+- **August 2026.** Upcoming invited seminar at the School of Control Science and Engineering, Shandong University (Jinan).
+- **August 2026.** Upcoming talk at the Shandong University Shandong-Hong Kong-Macao Forum on Mathematics and Its Interdisciplinary Applications 2026 (Jinan).
 - **July 2026.** Invited talk at the Mathematical Control Theory Conference: The 7th Symposium in Memory of Professor Xunjing Li (Huzhou).
 - **July 2026.** Invited talk at the International Conference on Optimal Control and Machine Learning (Guiyang).
 

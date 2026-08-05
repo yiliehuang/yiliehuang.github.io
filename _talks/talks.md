@@ -6,8 +6,9 @@ permalink: /talks/talks
 
 <ul>
   <li>INFORMS Annual Meeting (San Francisco), November 2026</li>
-  <li>Shandong University Shandong-Hong Kong-Macao Forum on Mathematics and Its Interdisciplinary Applications 2026 (Jinan), August 2026</li>
   <li>International Workshop on Probability Theory and Stochastic Analysis (Weihai), August 2026</li>
+  <li>Invited Seminar at the School of Control Science and Engineering, Shandong University (Jinan), August 2026</li>
+  <li>Shandong University Shandong-Hong Kong-Macao Forum on Mathematics and Its Interdisciplinary Applications 2026 (Jinan), August 2026</li>
   <li>Mathematical Control Theory Conference: The 7th Symposium in Memory of Professor Xunjing Li (Huzhou), July 2026</li>
   <li>International Conference on Optimal Control and Machine Learning (Guiyang), July 2026</li>
   <li>Numerical Analysis in Artificial Intelligence (Guangzhou), June 2026</li>
