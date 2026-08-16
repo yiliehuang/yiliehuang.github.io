@@ -198,8 +198,17 @@ Only after I explicitly approve:
 1. run the checks again
 2. create a clear commit message
 3. commit
-4. push to GitHub
-5. tell me the public GitHub Pages URL to check after deployment
+4. push to GitHub using the approved GitHub Desktop workflow for this repository
+5. verify the online branch moved to the local commit
+6. verify the public GitHub Pages URLs after deployment when website/CV material changed
+7. close GitHub Desktop after the push succeeds
+8. tell me the public GitHub Pages URL to check after deployment
+
+For this repository, command-line GitHub credentials may not be available. After approval, use:
+
+`./scripts/push_with_github_desktop.sh`
+
+This helper opens GitHub Desktop for this repository, triggers the Push action, fetches `origin`, verifies that the online branch matches the local commit, and quits GitHub Desktop after success. If the helper cannot verify the push, do not assume deployment succeeded; report the blocker and leave the app state clear.
 
 Recommended commit message examples:
 
