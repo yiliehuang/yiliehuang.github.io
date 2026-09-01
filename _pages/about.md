@@ -16,7 +16,7 @@ I received my Ph.D. in Industrial Engineering and Operations Research from Colum
 ## News
 
 - **November 2026.** Upcoming talk at the INFORMS Annual Meeting (San Francisco).
-- **October 2026.** Upcoming invited talk at the USC Mathematical Finance Colloquium.
+- **October 2026.** Upcoming invited talk at the Mathematical Finance Colloquium (USC, Los Angeles).
 
 ## Research Overview
 

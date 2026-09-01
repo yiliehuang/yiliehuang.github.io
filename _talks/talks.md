@@ -6,23 +6,23 @@ permalink: /talks/talks
 
 <ul>
   <li>INFORMS Annual Meeting (San Francisco), November 2026</li>
-  <li>USC Mathematical Finance Colloquium (Los Angeles), October 2026</li>
+  <li>Mathematical Finance Colloquium (USC, Los Angeles), October 2026</li>
   <li>International Workshop on Probability Theory and Stochastic Analysis (Weihai), August 2026</li>
-  <li>Invited Seminar at the School of Control Science and Engineering, Shandong University (Jinan), August 2026</li>
+  <li>Invited Seminar at the School of Control Science and Engineering (Shandong University, Jinan), August 2026</li>
   <li>Shandong University Shandong-Hong Kong-Macao Forum on Mathematics and Its Interdisciplinary Applications 2026 (Jinan), August 2026</li>
   <li>Mathematical Control Theory Conference: The 7th Symposium in Memory of Professor Xunjing Li (Huzhou), July 2026</li>
   <li>International Conference on Optimal Control and Machine Learning (Guiyang), July 2026</li>
   <li>Numerical Analysis in Artificial Intelligence (Guangzhou), June 2026</li>
-  <li>Quantitative Finance Conference (NUS Singapore), June 2026</li>
+  <li>Quantitative Finance Conference (NUS, Singapore), June 2026</li>
   <li>Workshop on Stochastic Control, Financial Technology, and Machine Learning in Conjunction with the 60th Birthday Celebration of Prof. Xunyu Zhou (Hong Kong), December 2025</li>
   <li>The 6th ACM International Conference on AI in Finance (Singapore), November 2025</li>
-  <li>Control and Optimization Seminar (UConn), November 2025</li>
+  <li>Control and Optimization Seminar (UConn, Storrs), November 2025</li>
   <li>INFORMS Annual Meeting (Atlanta), October 2025</li>
-  <li>Mathematical Finance and Stochastic Analysis Seminar (HU/TU Berlin), October 2025</li>
-  <li>Berkeley–Columbia Meeting in Engineering and Statistics (UC Berkeley), October 2025</li>
+  <li>Mathematical Finance and Stochastic Analysis Seminar (HU/TU, Berlin), October 2025</li>
+  <li>Berkeley–Columbia Meeting in Engineering and Statistics (UC Berkeley, Berkeley), October 2025</li>
   <li>SIAM Conference on Financial Mathematics and Engineering (Miami), July 2025</li>
   <li>World Online Seminar on Machine Learning in Finance (Online), February 2025</li>
-  <li>Columbia IEOR Colloquium (New York), November 2024</li>
+  <li>Columbia IEOR Colloquium (Columbia University, New York), November 2024</li>
   <li>INFORMS Annual Meeting (Seattle), October 2024</li>
   <li>INFORMS Conference on Financial Engineering and FinTech (Hong Kong), August 2024</li>
   <li>INFORMS Annual Meeting (Indianapolis), October 2022</li>
