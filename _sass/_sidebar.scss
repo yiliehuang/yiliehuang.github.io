@@ -90,12 +90,14 @@
   }
 
   img {
+    display: block;
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 8px;
+    clip-path: inset(0 round 8px);
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: 0;
     }
   }
 }
