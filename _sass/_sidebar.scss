@@ -94,6 +94,7 @@
     max-width: 175px;
     border-radius: 8px;
     clip-path: inset(0 round 8px);
+    box-shadow: 0 8px 22px rgba(#2f5d73, 0.12);
 
     @include breakpoint($large) {
       padding: 0;

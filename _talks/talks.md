@@ -6,6 +6,7 @@ permalink: /talks/talks
 
 <ul>
   <li>INFORMS Annual Meeting (San Francisco), November 2026</li>
+  <li>USC Mathematical Finance Colloquium (Los Angeles), October 2026</li>
   <li>International Workshop on Probability Theory and Stochastic Analysis (Weihai), August 2026</li>
   <li>Invited Seminar at the School of Control Science and Engineering, Shandong University (Jinan), August 2026</li>
   <li>Shandong University Shandong-Hong Kong-Macao Forum on Mathematics and Its Interdisciplinary Applications 2026 (Jinan), August 2026</li>
