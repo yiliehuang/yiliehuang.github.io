@@ -5,6 +5,7 @@ permalink: /talks/talks
 ---
 
 <ul>
+  <li>SIAM Conference on Financial Mathematics and Engineering (Arlington), June 2027</li>
   <li>INFORMS Annual Meeting (San Francisco), November 2026</li>
   <li>Mathematical Finance Colloquium (USC, Los Angeles), October 2026</li>
   <li>International Workshop on Probability Theory and Stochastic Analysis (Weihai), August 2026</li>

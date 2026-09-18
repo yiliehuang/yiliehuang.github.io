@@ -15,6 +15,7 @@ I received my Ph.D. in Industrial Engineering and Operations Research from Colum
 
 ## News
 
+- **June 2027.** Upcoming talk at the SIAM Conference on Financial Mathematics and Engineering (Arlington).
 - **November 2026.** Upcoming talk at the INFORMS Annual Meeting (San Francisco).
 - **October 2026.** Upcoming invited talk at the Mathematical Finance Colloquium (USC, Los Angeles).
 
