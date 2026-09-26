@@ -6,6 +6,11 @@ permalink: publication/publications
 
 <h3>Journal Articles</h3>
 <ul>
+  <li id="mv-management-science-2026"><strong>Huang, Y.</strong>, Jia, Y., &amp; Zhou, X. (2026).
+      <a href="/files/MV_ArXiv.pdf">Mean–Variance Portfolio Selection by Continuous-Time Reinforcement Learning: Algorithms, Regret Analysis, and Empirical Study</a>
+      (<a href="https://arxiv.org/abs/2412.16175">arXiv</a>).
+      Accepted for publication in <em>Management Science</em>.
+  </li>
   <li id="lq-tac-2026"><strong>Huang, Y.</strong> & Zhou, X. (2026).
       <a href="/files/LQ_TAC_2026.pdf">Data-Driven Exploration for a Class of Continuous-Time Indefinite Linear–Quadratic Reinforcement Learning Problems</a>
       (<a href="https://ieeexplore.ieee.org/document/11692946">IEEE Xplore</a>; <a href="https://arxiv.org/abs/2507.00358">arXiv</a>).

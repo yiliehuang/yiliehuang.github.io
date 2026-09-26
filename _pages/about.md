@@ -15,11 +15,12 @@ I received my Ph.D. in Industrial Engineering and Operations Research from Colum
 
 ## News
 
-- **September 2026.** Two papers accepted at NeurIPS 2026: [*Amortized Guidance for Image Inpainting*](/publications/#aid-neurips-2026) and [*ART for Diffusion Sampling*](/publications/#art-neurips-2026) (timestep scheduling).
-- **September 2026.** Our [data-driven exploration paper on indefinite LQ reinforcement learning](/publications/#lq-tac-2026) is now published online in *IEEE Transactions on Automatic Control*.
-- **June 2027.** Upcoming talk at the SIAM Conference on Financial Mathematics and Engineering (Arlington).
-- **November 2026.** Upcoming talk at the INFORMS Annual Meeting (San Francisco).
-- **October 2026.** Upcoming invited talk at the Mathematical Finance Colloquium (USC, Los Angeles).
+- Our [*Mean–Variance Portfolio Selection*](/publications/#mv-management-science-2026) paper has been accepted for publication in *Management Science*.
+- Two papers accepted at NeurIPS 2026: [*Amortized Guidance for Image Inpainting*](/publications/#aid-neurips-2026) and [*ART for Diffusion Sampling*](/publications/#art-neurips-2026) (timestep scheduling).
+- Our [*Data-Driven Exploration*](/publications/#lq-tac-2026) paper on indefinite LQ reinforcement learning is now published online in *IEEE Transactions on Automatic Control*.
+- Upcoming talk at the SIAM Conference on Financial Mathematics and Engineering (Arlington, June 2027).
+- Upcoming talk at the INFORMS Annual Meeting (San Francisco, November 2026).
+- Upcoming invited talk at the Mathematical Finance Colloquium (USC, Los Angeles, October 2026).
 
 ## Research Overview
 

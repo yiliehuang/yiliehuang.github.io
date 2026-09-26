@@ -8,8 +8,4 @@ permalink: publication/preprints
     <a href="/files/ART_Control_Actor_Critic_ArXiv.pdf">ART for Diffusion Sampling: Continuous-Time Control and Actor-Critic Learning</a>
     (<a href="https://arxiv.org/abs/2607.02137">arXiv</a>). <em>Under review</em>.
   </li>
-  <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2024). 
-      <a href="/files/MV_ArXiv.pdf">Mean-Variance Portfolio Selection by Continuous-Time Reinforcement Learning: Algorithms, Regret Analysis, and Empirical Study</a> 
-      (<a href="https://arxiv.org/abs/2412.16175">arXiv</a>). <em>Under minor revision, Management Science</em>.
-  </li> 
 </ul>
