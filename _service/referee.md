@@ -6,6 +6,7 @@ permalink: /service/referee
 <h3>Journals</h3>
 <ul>
   <li>Operations Research</li>
+  <li>Finance and Stochastics</li>
   <li>Mathematics of Operations Research</li>
   <li>SIAM Journal on Control and Optimization</li>
   <li>Quantitative Finance</li>
