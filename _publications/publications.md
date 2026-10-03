@@ -24,6 +24,10 @@ permalink: publication/publications
 </ul>
 <h3>Conference Papers</h3>
 <ul>
+  <li><strong>Huang, Y.</strong> (2026).
+      TAPES: Terminal Adjoint-Propagated Error Scheduling for Financial Diffusion Samplers.
+      Accepted at the <em>7th ACM International Conference on AI in Finance</em>.
+  </li>
   <li id="aid-neurips-2026"><strong>Huang, Y.</strong> &amp; Zhou, X. (2026).
       <a href="/files/AID_Inpaint_ArXiv.pdf">Amortized Guidance for Image Inpainting with Pretrained Diffusion Models</a>
       (<a href="https://arxiv.org/abs/2605.13010">arXiv</a>).
