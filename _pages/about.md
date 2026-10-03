@@ -40,6 +40,6 @@ I am looking for self-motivated Ph.D. students and research assistants intereste
 
 ## Research Support
 
-My research is supported by the PolyU Start-up Fund for New Recruits.
+PolyU Strategic Hiring Scheme (SHS) Start-up Fund — HK$3,000,000, Principal Investigator.
 
 For more details, please see my [Publications](/publications/) and [CV](/files/CV_Yilie_Huang.pdf).

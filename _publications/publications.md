@@ -12,9 +12,9 @@ permalink: publication/publications
       Accepted for publication in <em>Management Science</em>.
   </li>
   <li id="lq-tac-2026"><strong>Huang, Y.</strong> & Zhou, X. (2026).
-      <a href="/files/LQ_TAC_2026.pdf">Data-Driven Exploration for a Class of Continuous-Time Indefinite Linear–Quadratic Reinforcement Learning Problems</a>
-      (<a href="https://ieeexplore.ieee.org/document/11692946">IEEE Xplore</a>; <a href="https://arxiv.org/abs/2507.00358">arXiv</a>).
-      <em>IEEE Transactions on Automatic Control</em>. Published online (Early Access). DOI: 10.1109/TAC.2026.3734857.
+      <a href="https://doi.org/10.1109/TAC.2026.3734857">Data-Driven Exploration for a Class of Continuous-Time Indefinite Linear–Quadratic Reinforcement Learning Problems</a>
+      (<a href="https://arxiv.org/abs/2507.00358">arXiv</a>).
+      <em>IEEE Transactions on Automatic Control</em>, 2026. DOI: <a href="https://doi.org/10.1109/TAC.2026.3734857">10.1109/TAC.2026.3734857</a>.
   </li>
   <li><strong>Huang, Y.</strong>, Jia, Y., & Zhou, X. (2025). 
       <a href="/files/LQ_SICON_2025.pdf">Sublinear Regret for a Class of Continuous-Time Linear–Quadratic Reinforcement Learning Problems</a> 
